@@ -2,7 +2,7 @@
 | Project | Lang | Description|
 --- | --- | ---
 | [sbo-shell](https://github.com/jarmuszz/sbo-shell) | POSIX sh | Set of scripting utilities for managing [SlackBuilds ports tree](https://git.slackbuilds.org/slackbuilds). |
-| [per](https://github.com/jarmuszz/sbo-shell) | C99 | Simple UNIX permission converter. |
+| [per](https://github.com/jarmuszz/per) | C99 | Simple UNIX permission converter and viewer. |
 | [dots](https://github.com/jarmuszz/dots) | Various/Common Lisp | My configuration files. |
 
 ## Languages I write in:
